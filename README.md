@@ -1,3 +1,4 @@
+![Image](../images/avatar.jpg)
 # Joshua Sharp
 ## iOS Developer
 ## Personal Info
