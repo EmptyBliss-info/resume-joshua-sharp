@@ -23,7 +23,7 @@ Website: [emptybliss.info](emptybliss.info)
 
 ## Skills
 
-iOS, Swift, Mac OS, Linux, Windows, TCP/IP, SQL, Customer Service, Technical Support, git, UI, OOP, JSON, Data Structures, API, Xcode, POP (Protocol Oriented Programming)
+iOS, Swift, Mac OS, Linux, Windows, TCP/IP, SQL, Customer Service, Technical Support, git, UI, OOP, JSON, Data Structures, API, Xcode, POP (Protocol Oriented Programming), MVC, MVVM
 
 ## Overview
 * Rapid Learner, Voracious appetite for hands on learning and process improvement
