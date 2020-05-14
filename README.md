@@ -1,4 +1,4 @@
-![Image](../images/avatar.jpg)
+![Image](images/Avatar.jpg)
 # Joshua Sharp
 ## iOS Developer
 ## Personal Info
