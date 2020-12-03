@@ -256,7 +256,7 @@
             <ITEXT FCOLOR="Black" CH="2019-0"/>
             <ITEXT CH="8"/>
             <para/>
-            <ITEXT FCOLOR="Black" CH="Current"/>
+            <ITEXT CH="2020-07"/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -267,7 +267,7 @@
             <ITEXT FONT="Courier Prime Code Regular" FCOLOR="Black" CH="— PT Team Lead, Core Curriculum"/>
             <ITEXT FONT="Courier Prime Code Regular" CH=" "/>
             <para PARENT="Indented"/>
-            <ITEXT FONT="Courier Prime Code Regular" FCOLOR="Black" CH="— FT Team Lead, Labs21"/>
+            <ITEXT FONT="Courier Prime Code Regular" FCOLOR="Black" CH="— FT Team Lead, Labs21, iOS17"/>
             <trail PARENT="Indented"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
