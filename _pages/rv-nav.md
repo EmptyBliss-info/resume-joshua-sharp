@@ -1,0 +1,19 @@
+---
+ID: 236
+post_title: RV Nav
+author: sharp.josh@gmail.com
+post_excerpt: ""
+layout: page
+permalink: >
+  http://emptybliss.info/wp/portfolio/rv-nav/
+published: true
+post_date: 2020-08-10 18:13:17
+---
+<h1>RV Nav</h1>		
+										<img width="300" height="300" src="http://emptybliss.info/wp/wp-content/uploads/2020/08/Icon-1024-300x300.png" alt="" srcset="http://emptybliss.info/wp/wp-content/uploads/2020/08/Icon-1024-300x300.png 300w, http://emptybliss.info/wp/wp-content/uploads/2020/08/Icon-1024.png 1024w, http://emptybliss.info/wp/wp-content/uploads/2020/08/Icon-1024-150x150.png 150w, http://emptybliss.info/wp/wp-content/uploads/2020/08/Icon-1024-768x768.png 768w" sizes="(max-width: 300px) 100vw, 300px" />											
+		<p>An application to route trips with height restrictions taken into consideration based on the specs of a particular RV.</p>		
+				<figure><img src="http://emptybliss.info/wp/wp-content/uploads/2020/08/Simulator-Screen-Shot-iPhone-11-Pro-Max-2020-08-10-at-13.10.04-139x300.png" alt="Launch Screen" /><figcaption>Launch Screen</figcaption></figure><figure><img src="http://emptybliss.info/wp/wp-content/uploads/2020/08/Simulator-Screen-Shot-iPhone-11-Pro-Max-2020-08-10-at-13.13.05-139x300.png" alt="Landing Page" /><figcaption>Landing Page</figcaption></figure><figure><img src="http://emptybliss.info/wp/wp-content/uploads/2020/08/Simulator-Screen-Shot-iPhone-11-Pro-Max-2020-08-10-at-13.19.41-139x300.png" alt="Login Screen" /><figcaption>Login Screen</figcaption></figure><figure><img src="http://emptybliss.info/wp/wp-content/uploads/2020/08/Simulator-Screen-Shot-iPhone-11-Pro-Max-2020-08-10-at-13.19.46-139x300.png" alt="Signup" /><figcaption>Signup</figcaption></figure><figure><img src="http://emptybliss.info/wp/wp-content/uploads/2020/08/Simulator-Screen-Shot-iPhone-11-Pro-Max-2020-08-10-at-13.19.32-139x300.png" alt="Side Menu" /><figcaption>Side Menu</figcaption></figure><figure><img src="http://emptybliss.info/wp/wp-content/uploads/2020/08/Simulator-Screen-Shot-iPhone-11-Pro-Max-2020-08-10-at-13.19.24-139x300.png" alt="Vehicle List" /><figcaption>Vehicle List</figcaption></figure><figure><img src="http://emptybliss.info/wp/wp-content/uploads/2020/08/Simulator-Screen-Shot-iPhone-11-Pro-Max-2020-08-10-at-13.18.28-139x300.png" alt="Getting Route" /><figcaption>Getting Route</figcaption></figure><figure><img src="http://emptybliss.info/wp/wp-content/uploads/2020/08/Simulator-Screen-Shot-iPhone-11-Pro-Max-2020-08-10-at-13.18.12-139x300.png" alt="Route Text Result" /><figcaption>Route Text Result</figcaption></figure><figure><img src="http://emptybliss.info/wp/wp-content/uploads/2020/08/Simulator-Screen-Shot-iPhone-11-Pro-Max-2020-08-10-at-13.18.46-139x300.png" alt="Demo Route Map" /><figcaption>Demo Route Map</figcaption></figure><figure><img src="http://emptybliss.info/wp/wp-content/uploads/2020/08/Simulator-Screen-Shot-iPhone-11-Pro-Max-2020-08-10-at-13.17.18-139x300.png" alt="Night Mode" /><figcaption>Night Mode</figcaption></figure>			
+						Previous
+						Next
+			<figure><img width="309" height="666" src="http://emptybliss.info/wp/wp-content/uploads/2020/08/RVNav01.gif" alt="" /></figure><h3>App Demo</h3>		
+		<p>RV Nav is a Lambda School Labs Project that was in its third iteration, second iOS iteration when we started working on it.  The previous iOS team created a bare bones app but it had all the REST API code in place.  The previous iteration had UI/UX designers so it was clear what we would be doing in our "sprints":  implementing the UI/UX Design.  I had a great time working with Jacob on this project.</p><p>https://github.com/jds655/rv-nav-ios</p>
